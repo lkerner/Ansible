@@ -52,4 +52,5 @@
     - scap-security-guide
     - openscap
     - openscap-utils
+    - openscap-content
     - libselinux-python
